@@ -1,0 +1,16 @@
+<div class="main-content">
+	<div class="row">
+		<div class="col col-xs-offset-1 col-xs-10 page-heading">
+			<h1>About</h1>
+		</div>
+		<div class="col col-xs-offset-1 col-xs-10 about-sidecolumn">
+			<p><?php echo $this->Html->image('fisher_price_record_player.png', array('alt' => 'Fisher Price record player', 'align' => 'right', 'width' => '200')); ?>I have been buying and playing records for as far back as my memories can recall. One of my earliest memories is playing ‘Hey Jude’ by The Beatles on the large console turntable my folks owned. As soon as the song would end, I would pick up the stylus arm, set it at the beginning of the song, and listen to it again, ad nauseum. I listened to my own records on my plastic, Fisher Price record player, that folded up like a suitcase, and could be carried around the house.</p>
+			<p>I remember buying records at national chains like Target, as well as local shops like Sweets. By the time I got to middle school, records had pretty much been phased out by cassettes, and CDs were on their way to the top of the market. This meant the rise of the used record stores in my town, and one in particular called Recycle Records. All of their used records were priced at $2.99.</p>
+			<p>Then while in high school, the owner of the then-defunct Sweets opened Black &amp; Read. He had all this old stock from Sweets and other places piled up in hundreds of boxes. He would periodically fill up his racks, or you could flip through the boxes yourself. Regardless, for the first several months after opening, all the records he sold were $1 each. Between Black &amp; Read and Recycle Records I scored some real gems.</p>
+			<p>As my collection grew, there were times it got too large and needed to be purged, such as before a large move. Other times I needed the cash, so I liquidated elements of it for other purposes. Thus, as time has lapsed, I have been forced to let go of a large number of the records I've collected along the way. What I am left with is admittedly rather diminutive in relation to other collections I've seen, but whatever its magnitude, I think it fairly accurately represents me as a person.</p>
+			<p>It also represents the considerable amount of time I have spent in record stores in a multitude of cities across the country. I have also spent a lot of time &lsquo;collecting&rsquo; all the records from particular labels. All that said, I still didn't consider myself a &lsquo;record collector&rsquo;. Only recently have I accepted the title, as well as the desire to determine the root of my need to collect.</p>
+			<p><blockquote>&ldquo;There are people who fill their time by collecting&hellip;, and they probably do so out of something that we might call metaphysical angst, perhaps because they cannot bear the idea of chaos being the one ruler of the universe, which is why, using their limited powers and with no divine help, they attempt to impose some order on the world&hellip;&rdquo; — Jos&eacute; Saramago</blockquote></p>
+			<p>Doing my part to battle the chaos in my life and quell my metaphysical angst, I have created this website to catalog my record collection. I have also added a blog, where I will be doing record reviews, and at some point would like to post a weekly podcast.</p>
+		</div>
+	</div>
+</div>
